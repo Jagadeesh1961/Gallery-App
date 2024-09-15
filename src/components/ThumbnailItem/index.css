@@ -1,0 +1,15 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.active-thumbnail {
+  opacity: 0.5;
+}
+
+.button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
